@@ -2,6 +2,10 @@
 
 In this project, we use basic decision tree and random forest for binary classification task. The observations in the dataset are either negative or positive. Positive cases are more significant than negative cases. One false negative (positive case classified as negative) will lose 500 bucks, but one false positive (negative case classified as positive) will lose 10 bucks. **Our goal is to minimize the cost.**
 
+### Our best testing dataset result by using random forest
+![best result](https://github.com/shuxg2017/Air-pressure-system-failure-detection-by-tree-forest/blob/master/random_forest_confusion_matrix.png)
+
+
 ## Introduction
 
 - **Our result overview**
